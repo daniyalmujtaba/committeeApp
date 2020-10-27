@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155009956541",
+    "firebase_url": "https://reactnativeapp-24594.firebaseio.com",
+    "project_id": "reactnativeapp-24594",
+    "storage_bucket": "reactnativeapp-24594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155009956541:android:dedab36d3256652056d5d4",
+        "android_client_info": {
+          "package_name": "com.committeeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155009956541-nvscgn8egrgboesl8ssaphhspgcp0qa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCREd1EavU0_NWSmpGOQQCImYMalU9qzzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155009956541-nvscgn8egrgboesl8ssaphhspgcp0qa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

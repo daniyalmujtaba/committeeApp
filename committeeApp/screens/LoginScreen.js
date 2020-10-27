@@ -4,7 +4,7 @@ import * as Google from 'expo-google-app-auth';
 import firbase from 'firebase';
 
 class LoginScreen extends Component {
-
+    
     
     render () {
         return (
